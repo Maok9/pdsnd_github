@@ -5,7 +5,7 @@
 Udacity data scientist Degree
 
 ### Description
-explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Numpy and Pandas
+explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Numpy and Pandas in python
 
 ### Files used
 

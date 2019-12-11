@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+2019/11/12
 
-### Project Title
-Replace the Project Title
+### Explore-US-Bikeshare-Data
+Udacity data scientist Degree
 
 ### Description
-Describe what your project is about and what it does
+explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Using Numpy and Pandas
 
 ### Files used
-Include the files used
+
+-chicago.csv 
+-new_york_city.csv
+-washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+special thanks to https://github.com/iamshaunjp for inspired me 
 
